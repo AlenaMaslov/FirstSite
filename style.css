@@ -1,0 +1,125 @@
+td, th {
+	border:3px solid pink;
+}
+body {
+	background-color:PaleTurquoise;
+	text-shadow:2.5px 3px 2px lightgray;
+	margin:0px;
+	background-image:url("https://cs11.pikabu.ru/post_img/big/2019/03/13/5/155245872316090969.jpg");
+}
+header {
+	background-color:PaleTurquoise;
+}
+main {
+	margin-left:125px;
+	margin-right:125px;
+	/*background-color:white;*/
+}
+footer {
+	background-color:Lavender;
+	margin-top:50px;
+	padding: 35px 0px 35px 20px;
+}
+.sketchimg {
+	border:16px outset lightblue;
+}
+img {
+	border:16px ridge lightblue;
+}
+.justifycontent {
+	text-align:center;
+}
+.button img {
+	border:none;
+}
+.relative {
+	position:relative;
+	top:55px;
+	right:100px;
+}
+.relative2 {
+	position:relative;
+	top:110px;
+	right:200px;
+}
+.gallery img{
+	border:4px solid LightBlue;
+}
+.gallery {
+	display:flex;
+}
+.Van {
+	position:relative;
+	top:195px;
+	right:220px;
+}
+.Vasnesov {
+	position:relative;
+	top:250px;
+	right:275px;
+}
+.Shishkin {
+	position:relative;
+	top:305px;
+	right:400px;
+}
+.logotip {
+	border:none;
+	position:absolute;
+	top:1px;	
+}
+ .imgkrasku img {
+	border:10px outset lightblue;
+}
+.imgkrasku2 img {
+	border:10px outset lightblue;
+}
+.imgkrasku {
+	 display:flex;
+	  justify-content:space-around;
+}
+.imgkrasku2 {
+	 display:flex;
+	  justify-content:space-around;
+}
+.gallery p{
+	height: 40px;
+	background-color: white;
+	color:mediumOrchid;
+	font-family: Courier New;
+}
+.yarluk{
+	background-color:lightYellow;
+	color:deeppink;
+	position:fixed;
+	left:94%;
+	top:20%;
+}
+li {
+	margin:15px;
+}
+h1 {
+	background-color:Plum;
+	color:Indigo;
+	font-family:Courier New;
+	text-align:center;
+	padding:12px;
+}
+h2 {
+	background-color:Plum;
+	color:Indigo;
+	font-family:Courier New;
+	text-align:center;
+}	
+h5 {
+	position:absolute;
+	top:25px;
+	left:18px;
+	color:Indigo;
+	font-family:Courier New;
+}
+h3 {
+	color:MediumOrchid;
+	font-family:Courier New;
+	text-align:center;
+}
